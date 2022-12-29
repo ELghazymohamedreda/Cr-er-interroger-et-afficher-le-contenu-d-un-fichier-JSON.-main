@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body{
+    font-family: 'Lato', sans-serif;
+}
+#table thead th{
+    font-family: 'Lato', sans-serif;
+}
+
+#table tbody tr td{
+    font-family: 'Lato', sans-serif;
+}

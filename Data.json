@@ -1,0 +1,287 @@
+[
+    {
+        "titre": "Smile",
+        "réalisateur": "Parker Finn",
+        "durée": 115,
+        "production": 2022,
+        "Poster": "https://iegybest.film/wp-content/uploads/2022/10/Smile.jpg",
+        "Festivals": [
+            "Festival de Cannes",
+            "César",
+            "Oscars / Academy Awards"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Jessie",
+                "somprenom": "T. Usher",
+                "sanationalité": "American"
+            },
+            {
+                "sonmon": "Caitlin",
+                "somprenom": "Stasey",
+                "sanationalité": "Australian"
+            },
+            {
+                "sonmon": "Robin",
+                "somprenom": "Weigert",
+                "sanationalité": "American"
+            }
+        ]
+    },
+    {
+        "titre": "Black Adam",
+        "réalisateur": "Jaume Collet-Serra",
+        "durée": 124,
+        "production": 2022,
+        "Poster": "https://iegybest.film/wp-content/uploads/2022/10/Black-Adam.jpg",
+        "Festivals": [
+            "Festival du Cinéma Américain de Deauville",
+            "Mostra de Venise"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Aldis",
+                "somprenom": "Hodge",
+                "sanationalité": "American"
+            },
+            {
+                "sonmon": "Dwayne",
+                "somprenom": "Johnson",
+                "sanationalité": "American"
+            },
+            {
+                "sonmon": "Pierce",
+                "somprenom": "Brosnan",
+                "sanationalité": "Irish"
+            }
+        ]
+    },
+    {
+        "titre": "Detective Knight: Redemption",
+        "réalisateur": "Edward Drake",
+        "durée": 93,
+        "production": 2022,
+        "Poster": "image/Detective.jpg",
+        "Festivals": [
+            "Quinzaine des Réalisateurs",
+            "Berlinale"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Bruce",
+                "somprenom": "Willis",
+                "sanationalité": "American"
+            },
+            {
+                "sonmon": "Corey William",
+                "somprenom": "Large",
+                "sanationalité": "Canadian"
+            },
+            {
+                "sonmon": "John",
+                "somprenom": "Cassini",
+                "sanationalité": "Canadian"
+            }
+        ]
+    },
+    {
+        "titre": "Avatar: The Way of Water",
+        "réalisateur": "James Cameron",
+        "durée": 192,
+        "production": 2022,
+        "Poster": "image/avatar.jpg",
+        "Festivals": [
+            "Goya",
+            "Golden Globes",
+            "Razzie Awards"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Kate",
+                "somprenom": "Winslet",
+                "sanationalité": "British"
+            },
+            {
+                "sonmon": "Sam",
+                "somprenom": "Worthington",
+                "sanationalité": "Australian"
+            },
+            {
+                "sonmon": "Sigourney",
+                "somprenom": "Weaver",
+                "sanationalité": "American"
+            }
+        ]
+    },
+    {
+        "titre": "Black Panther: Wakanda Forever",
+        "réalisateur": "Ryan Coogler",
+        "durée": 161,
+        "production": 2022,
+        "Poster": "https://iegybest.film/wp-content/uploads/2022/11/Black-Panther-Wakanda-Forever.jpg",
+        "Festivals": [
+            "Razzie Awards",
+            "Premiers plans d'Angers"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Angela",
+                "somprenom": "Bassett",
+                "sanationalité": "American"
+            },
+            {
+                "sonmon": "Danai",
+                "somprenom": "Gurira",
+                "sanationalité": "American-Zimbabwean"
+            },
+            {
+                "sonmon": "Letitia",
+                "somprenom": "Wright",
+                "sanationalité": "Guyanese-British"
+            }
+        ]
+    },
+    {
+        "titre": "Single and Ready to Jingle",
+        "réalisateur": "Wendy Ord",
+        "durée": 88,
+        "production": 2022,
+        "Poster": "https://iegybest.film/wp-content/uploads/2022/12/Single-and-Ready-to-Jingle.jpg",
+        "Festivals": [
+            "Cannes Film Festival",
+            "Sundance Film Festival"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Edward",
+                "somprenom": "Ruttle",
+                "sanationalité": "Canadian"
+            },
+            {
+                "sonmon": "Julia",
+                "somprenom": "Garner",
+                "sanationalité": "American"
+            },
+            {
+                "sonmon": "Natasha",
+                "somprenom": "Wilson",
+                "sanationalité": "New-Zealand"
+            }
+        ]
+    },
+    {
+        "titre": "Mad Heidi",
+        "réalisateur": "Johannes Hartmann",
+        "durée": 92,
+        "production": 2022,
+        "Poster": "https://iegybest.film/wp-content/uploads/2022/12/Mad-Heidi.jpg",
+        "Festivals": [
+            "Berlin Film Festival",
+            "Venice Film Festival"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Alice",
+                "somprenom": "Lucy",
+                "sanationalité": "British"
+            },
+            {
+                "sonmon": "Casper",
+                "somprenom": "Van Dien",
+                "sanationalité": "American"
+            },
+            {
+                "sonmon": "kel",
+                "somprenom": "matsena",
+                "sanationalité": "Zimbabwean"
+            }
+        ]
+    },
+    {
+        "titre": "The Beasts",
+        "réalisateur": "Rodrigo Sorogoyen",
+        "durée": 137,
+        "production": 2022,
+        "Poster": "https://iegybest.film/wp-content/uploads/2022/12/The-Beasts.jpg",
+        "Festivals": [
+            "Toronto International Film Festival",
+            "BFI London Film Festival",
+            "Edinburgh International Film Festival"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Denis",
+                "somprenom": "Ménochet",
+                "sanationalité": "French"
+            },
+            {
+                "sonmon": "Diego",
+                "somprenom": "Anido",
+                "sanationalité": "Spanish"
+            },
+            {
+                "sonmon": "Luis",
+                "somprenom": "Zahera",
+                "sanationalité": "Spanish"
+            }
+        ]
+    },
+    {
+        "titre": "Vesper",
+        "réalisateur": "Kristina Buozyte",
+        "durée": 114,
+        "production": 2022,
+        "Poster": "https://iegybest.film/wp-content/uploads/2022/09/Vesper.jpg",
+        "Festivals": [
+            "SXSW Film Festival",
+            "Telluride Film Festival",
+            "American Film Festival"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Eddie",
+                "somprenom": "Marsan",
+                "sanationalité": "American"
+            },
+            {
+                "sonmon": "Melanie",
+                "somprenom": "Gaydos",
+                "sanationalité": "American"
+            },
+            {
+                "sonmon": "Richard",
+                "somprenom": "Brake",
+                "sanationalité": "American"
+            }
+        ]
+    },
+    {
+        "titre": "Brother and Sister",
+        "réalisateur": "Jan Krüger",
+        "durée": 108,
+        "production": 2022,
+        "Poster": "https://iegybest.film/wp-content/uploads/2022/12/Brother-and-Sister.jpg",
+        "Festivals": [
+            "Tribeca Film Festival",
+            "Raindance Film Festival",
+            "Melbourne International Film Festival"
+        ],
+        "Acteurs": [
+            {
+                "sonmon": "Benjamin",
+                "somprenom": "Siksou",
+                "sanationalité": "French"
+            },
+            {
+                "sonmon": "Melvil",
+                "somprenom": "Poupaud",
+                "sanationalité": "French"
+            },
+            {
+                "sonmon": "Patrick",
+                "somprenom": "Timsit",
+                "sanationalité": "French"
+            }
+        ]
+    }
+]

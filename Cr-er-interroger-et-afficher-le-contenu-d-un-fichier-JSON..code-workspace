@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/startbootstrap-blog-home-gh-pages/js"
+		},
+		{
+			"path": "../../../Downloads/startbootstrap-blog-home-gh-pages/css"
+		},
+		{
+			"path": "../../../Downloads/startbootstrap-blog-home-gh-pages/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cr-er-interroger-et-afficher-le-contenu-d-un-fichier-JSON."
+	}
+}
